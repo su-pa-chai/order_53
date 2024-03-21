@@ -1,0 +1,12 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "PdfService",
+      "libraryId": "1iePjnglUzelAuJJb-QykRcUUWYBSKiNGUWVljnNe03G9zWzSUGIRWLXa",
+      "version": "64"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
